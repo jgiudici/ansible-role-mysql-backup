@@ -1,8 +1,0 @@
----
-
-# Tests for mysql-backup role
-
-- hosts: localhost
-  remote_user: root
-  roles:
-    - ansible-role-mysql-backup
